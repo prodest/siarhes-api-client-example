@@ -1,0 +1,4 @@
+auth_url=https://localhost/token
+api_url=http://localhost/
+clint_id=client
+client_secret=secret
